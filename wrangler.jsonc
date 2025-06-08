@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "digipin-pro-1",
+	"name": "digipin-pro",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-06-07",
 	"assets": {
